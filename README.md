@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [https://medium.com/@nsvibinraj](https://medium.com/@nsvibinraj)
+- 📝 I write articles on [https://medium.com/@nsvibinraj](https://medium.com/@nsvibinraj)
 
 - 📫 How to reach me **rajeshvibinraj2912@gmail.com**
 
