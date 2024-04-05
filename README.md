@@ -30,7 +30,7 @@
 <a href="https://kaggle.com/vibinrajrajeshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vibinrajrajeshkumar" height="30" width="40" /></a>
 <a href="https://instagram.com/_vr.dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vr.dev_" height="30" width="40" /></a>
 <a href="https://www.behance.net/vibinrajrajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vibinrajrajesh" height="30" width="40" /></a>
-<a href="https://medium.com/@vibinrajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vibinrajesh" height="30" width="40" /></a>
+<a href="https://medium.com/@vibinrajesh" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="@vibinrajesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
