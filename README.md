@@ -8,11 +8,9 @@
 <p align="left">Hey there! I'm Vibinraj Rajesh, a versatile professional specializing in web development and data analysis. With a knack for coding and a passion for uncovering insights from data, I thrive in the dynamic intersection of technology and information. Whether it's crafting intuitive user interfaces or crunching numbers to drive strategic decisions, I bring creativity, precision, and a problem-solving mindset to every project I undertake. Let's collaborate and bring your digital visions to life!</p>
 
 
-- 🔭 I’m currently studying **MSc Data Analytics**
-
-- 🌱 I’m currently learning **React**
-
 - 🎓 Undergraduated in **BSc Computer Science**
+  
+- 🎓 Post Graduated in **MSc Data Analytics**
 
 - 📝 I write articles on [Medium](https://medium.com/@nsvibinraj)
 
